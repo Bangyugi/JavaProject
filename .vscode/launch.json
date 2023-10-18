@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Hello_world_in_java",
+            "request": "launch",
+            "mainClass": "buoi_1.Hello_world_in_java",
+            "projectName": "JavaProject_8a2f4bb5"
+        },
+        {
+            "type": "java",
             "name": "Review",
             "request": "launch",
             "mainClass": "Review",
