@@ -30,6 +30,7 @@ public class Sinhvien {
 				n=i;
 				break;
 			}
+			System.out.println();
 		}
 		for (int i=1;i<=n;i++)
 		{
