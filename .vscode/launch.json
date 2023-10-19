@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Sinhvien",
+            "request": "launch",
+            "mainClass": "sinhvien.Sinhvien",
+            "projectName": "JavaProject_8a2f4bb5"
+        },
+        {
+            "type": "java",
             "name": "Test_code",
             "request": "launch",
             "mainClass": "test_code_in_java.Test_code",
