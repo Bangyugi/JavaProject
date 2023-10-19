@@ -39,5 +39,6 @@ public class Sinhvien {
 			System.out.println("Chieu cao: " + a[i].heigh);
 			System.out.println();
 		}
+		scan.close();
 	}
 }

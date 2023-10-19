@@ -35,5 +35,6 @@ public class Hello_world_in_java {
     for (int i = 1; i <= 10; i++) {
       System.out.println("Hello " + i);
     }
+    scan.close();
   }
 }
